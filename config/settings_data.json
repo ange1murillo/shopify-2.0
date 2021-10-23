@@ -3,6 +3,31 @@
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
+        "blocks": {
+          "a72fb05a-4ab9-4bcc-a2c6-67cebf649d75": {
+            "type": "announcement",
+            "settings": {
+              "text": "Thanksgiving Special! 25% OFF your order.",
+              "background_color": "#22bbc2",
+              "announcement_text_color": "#ffffff",
+              "link": "shopify:\/\/collections\/adidas"
+            }
+          },
+          "a90e9c2b-647d-4c67-a760-d3fb62ad49b3": {
+            "type": "announcement",
+            "disabled": true,
+            "settings": {
+              "text": "Welcome to our store",
+              "background_color": "#605e7d",
+              "announcement_text_color": "#FFFFFF",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "a72fb05a-4ab9-4bcc-a2c6-67cebf649d75",
+          "a90e9c2b-647d-4c67-a760-d3fb62ad49b3"
+        ],
         "settings": {
         }
       },
