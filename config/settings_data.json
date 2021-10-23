@@ -19,7 +19,7 @@
             "settings": {
               "text": "Welcome to our store",
               "background_color": "#605e7d",
-              "announcement_text_color": "#FFFFFF",
+              "announcement_text_color": "#ffffff",
               "link": ""
             }
           }
@@ -34,10 +34,10 @@
       "header": {
         "type": "header",
         "settings": {
-          "header_type": "header1",
+          "header_type": "header2",
           "logo_width": 100,
           "menu": "main-menu",
-          "menu_two": "main-menu"
+          "menu_two": ""
         }
       },
       "footer": {
