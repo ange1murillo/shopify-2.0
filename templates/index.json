@@ -126,14 +126,16 @@
     "16284512103cad8520": {
       "type": "hero-two",
       "settings": {
-        "hero_height": "50vh",
+        "hero_height": "100vh",
+        "image1": "shopify:\/\/shop_images\/model-with-leather-jacket-over-shoulders.jpg",
         "background1": "#000000",
-        "opacity1": 50,
-        "button_label1": "Button label",
+        "opacity1": 40,
+        "button_label1": "Women",
         "button_link1": "",
+        "image2": "shopify:\/\/shop_images\/man-puts-his-hand-inside-his-jacket.jpg",
         "background2": "#000000",
         "opacity2": 50,
-        "button_label2": "Button label",
+        "button_label2": "Men",
         "button_link2": ""
       }
     },
