@@ -1,7 +1,7 @@
 {
   "current": {
     "header_sticky": true,
-    "header_transparent": true,
+    "header_transparent": false,
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
