@@ -1,5 +1,7 @@
 {
   "current": {
+    "header_sticky": false,
+    "header_transparent": true,
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
@@ -22,11 +24,22 @@
               "announcement_text_color": "#ffffff",
               "link": ""
             }
+          },
+          "49c6b66b-2419-48a2-b35d-0cbeb2dcb2c1": {
+            "type": "announcement",
+            "disabled": true,
+            "settings": {
+              "text": "Welcome to our store",
+              "background_color": "#605e7d",
+              "announcement_text_color": "#FFFFFF",
+              "link": ""
+            }
           }
         },
         "block_order": [
           "a72fb05a-4ab9-4bcc-a2c6-67cebf649d75",
-          "a90e9c2b-647d-4c67-a760-d3fb62ad49b3"
+          "a90e9c2b-647d-4c67-a760-d3fb62ad49b3",
+          "49c6b66b-2419-48a2-b35d-0cbeb2dcb2c1"
         ],
         "settings": {
         }
