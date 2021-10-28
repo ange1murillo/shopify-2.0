@@ -1,13 +1,14 @@
 {
   "current": {
     "header_sticky": true,
-    "header_transparent": false,
+    "header_transparent": true,
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
         "blocks": {
           "a72fb05a-4ab9-4bcc-a2c6-67cebf649d75": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "Thanksgiving Special! 25% OFF your order.",
               "background_color": "#22bbc2",
