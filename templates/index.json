@@ -192,6 +192,42 @@
         "opacity": 50,
         "info_alignment": "center"
       }
+    },
+    "1635545675032f652b": {
+      "type": "product-highlight",
+      "blocks": {
+        "1635545675032f652b-0": {
+          "type": "heading",
+          "settings": {
+            "title": "Title",
+            "title_size": "md"
+          }
+        },
+        "1635545675032f652b-1": {
+          "type": "paragraph",
+          "settings": {
+            "paragraph": "Example message I ' m baby kogi cardigan kitsch hammock banjo. Typewriter viral man braid hot chicken, farm-to-table fashion axe intelligentsia lomo green juice ramps irony succulents."
+          }
+        },
+        "1635545675032f652b-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1635545675032f652b-0",
+        "1635545675032f652b-1",
+        "1635545675032f652b-2"
+      ],
+      "settings": {
+        "hero_height": "100vh",
+        "background": "#000000",
+        "opacity": 50,
+        "info_alignment": "right"
+      }
     }
   },
   "order": [
@@ -202,6 +238,7 @@
     "featured_products",
     "16284512103cad8520",
     "1628451261173d995f",
-    "16284512746d6f5dbd"
+    "16284512746d6f5dbd",
+    "1635545675032f652b"
   ]
 }
