@@ -213,7 +213,7 @@
           "type": "button",
           "settings": {
             "button_label": "Add to cart",
-            "button_link": ""
+            "button_link": "shopify:\/\/products\/adidas-classic-backpack"
           }
         }
       },
@@ -224,6 +224,7 @@
       ],
       "settings": {
         "hero_height": "100vh",
+        "image": "shopify:\/\/shop_images\/retail-shopping-package.jpg",
         "background": "#000000",
         "opacity": 50,
         "info_alignment": "right"
